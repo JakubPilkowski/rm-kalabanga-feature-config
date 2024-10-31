@@ -1,7 +1,7 @@
-segment: netherlands
+segment: poland
 assertions:
   - context:
-      country: nl
+      country: pl
     expectedToMatch: true
 
   - context:
